@@ -1,3 +1,10 @@
+/*
+ * Author: Christopher Forte
+ * Date: October 19, 2022
+ * Title: Calculator (C++)
+ * Description: First attempt at a basic calculator in C++. 
+ */
+
 #include <iostream>
 using namespace std;
 
